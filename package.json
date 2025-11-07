@@ -1,7 +1,7 @@
 {
   "name": "trang-web-ban-hang",
   "version": "1.0.0",
-  "description": "Trang web bán hàng sử dụng React",
+  "description": "E-commerce website built with React",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
